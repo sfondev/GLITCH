@@ -30,7 +30,7 @@ class AnsibleParser(YamlParser):
         "connection",
         "debugger",
         "delegate_facts",
-        "deletage_to",
+        "delegate_to",
         "diff",
         "environment",
         "failed_when",
